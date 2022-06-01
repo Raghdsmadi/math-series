@@ -3,7 +3,8 @@ Project: Math_series <br>
 Author: Raghd Smadi :read_heart:
 
 ********************************************************
-[math_series pull request](https://github.com/Raghdsmadi/math-series/pull/1) <br>
+
+[math_series pull request](https://github.com/Raghdsmadi/math-series/pull/2) <br>
 How to run my application: <br>
 python series.py <br>
 pyton test_series <br>
