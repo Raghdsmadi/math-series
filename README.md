@@ -1,5 +1,5 @@
 ## LAB 02 - Class 02
-Project: Math_series
+Project: Math_series <br>
 Author: Raghd Smadi :read_heart:
 
 ********************************************************
