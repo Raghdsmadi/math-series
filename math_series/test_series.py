@@ -20,7 +20,7 @@ def test_lucas_at_0():
     assert lucas(0) == 2
 def test_lucas_at_0():
     assert lucas(1)==1
-    
+
 def test_lucas_at_2():
     assert lucas(2) == 3
 
